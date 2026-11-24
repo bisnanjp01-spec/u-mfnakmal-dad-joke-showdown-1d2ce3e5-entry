@@ -5,6 +5,8 @@
 // passes and the text goes before the pairwise judge.
 import { mkdirSync, writeFileSync } from "node:fs";
 
+// The punchline turns on "head": the hammer's head, and the head of
+// the household. The joke stays one line so the entry stays one line.
 const JOKE =
   "My son asked why the hammer sits on top of the toolbox. I said, 'Because it's the head of the household.'";
 
